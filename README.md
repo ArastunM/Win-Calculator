@@ -1,7 +1,8 @@
 # WIN-Calculator
 WIN-Calculator is an attempted replica of [Windows Calculator](https://en.wikipedia.org/wiki/Windows_Calculator).
 
-Current version of the app provides the functionality of the Standard mode of Windows Calculator.
+Current version of the WIN-Calculator provides the functionality of the Standard mode of Windows Calculator. The 
+app is still in development phase.
 
 ## Prerequisites
 C# 8.0 and [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet/3.1) was used for development
